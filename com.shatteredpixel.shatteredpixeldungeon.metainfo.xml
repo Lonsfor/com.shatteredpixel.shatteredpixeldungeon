@@ -43,6 +43,12 @@
 		</screenshot>
 	</screenshots>
 	<releases>
+		<release version="3.2.1" date="2025-08-15">
+			<description>
+				<p>v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects.</p>
+			</description>
+			<url>https://shatteredpixel.com/blog/shattered-pixel-dungeon-v320.html</url>
+		</release>
 		<release version="3.2.0" date="2025-08-04">
 			<description>
 				<p>v3.2 comes with a major overhaul to thrown weapons, balance changes to some subclasses, and a major QoL change to accuracy/evasion effects.</p>
